@@ -23,7 +23,8 @@ A simple, responsive quiz application built with React. Users can navigate throu
 ![Image_alt](https://github.com/navinpaskanti/quiz-app/blob/0e1f1ae753c6063032f95ce5512d24122a09ca30/quiz3.png)
 ---
 
-🧪 Tech Stack
+# 🧪 Tech Stack
+
 React
 
 Bootstrap 5
