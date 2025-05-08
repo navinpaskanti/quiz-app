@@ -15,7 +15,7 @@ This is a simple and interactive **Tic Tac Toe** game built using **React.js**. 
 
 ## 📸 Preview
 
-
+![Image alt]((https://github.com/navinpaskanti/quiz-app/blob/5c69452b1c88d47c011d435c6a72df1d5da99970/quiz1.png)
 ---
 
 ## 🛠️ Tech Stack
